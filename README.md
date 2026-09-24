@@ -266,8 +266,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, please contact:
 - Email: ja052119@gmail.com
 - GitHub Issues: [Issues section](https://github.com/Jawed98/diabetes_problem_detection)
-- GitHub Profile: [Jawed Ansari](https://github.com/Jawed98/)
-- Linkedin: [Abdurakhmon Niyozaliev](https://www.linkedin.com/in/jawed-ansari-660977334/)
+- GitHub Profile: [Jawed98](https://github.com/Jawed98/)
+- Linkedin: [Jawed Ansari](https://www.linkedin.com/in/jawed-ansari-660977334/)
 
 
 ### <i>Thank you for your interest in the project!</i>
